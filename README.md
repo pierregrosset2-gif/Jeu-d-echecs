@@ -18,6 +18,6 @@ Implémenter un moteur d’échecs complet avec gestion des règles.
 - Ajout d’une IA (minimax)
 - Interface graphique meilleure
   
-## Pour lancer, utiliser le code du fichier "jeu_echecs", et telecharger le dossier images res.pyxres
+## Pour lancer, télécharger le dossier images res.pyxres puis lancer main.py
 
 Quelques indications supplémentaires disponibles dans les parametres lors du lancement du jeu. Pour selectionner une piece, bouger avec les fleches du clavier, puis touche L pour lock une piece. Enfin, bouger et appuyer sur entree sur la case voulue. 
